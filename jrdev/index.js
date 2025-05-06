@@ -1,6 +1,3 @@
-// initialization
-
-
 const tabs = document.querySelectorAll(".tab-content") 
 const tabButtons = document.querySelectorAll(".tab-btn")
 
